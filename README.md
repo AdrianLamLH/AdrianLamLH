@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi and Welcome!
 
+My name is Adrian, I'm a Mathematics of Computation Student at UCLA. Here are some interesting projects I've worked on:
+
+- 🗺️ A full-stack [webapp](site.hspa.info) as part of the LA Streets project by City of Los Angeles and UCLA
+- 💭 A re-imagining of the popular [Wordle webapp](https://github.com/trungvu08/Wordle-PLUS) built on the MERN stack for players looking for an extra challenge
+- 🌐 A Geometric Neural Network machine learning [model](https://github.com/AdrianLamLH/Wiki-CS-GNN-model-explainer) for using a content-based approach in generating hyperlinks between Wikipedia articles
+
+You can check out my [personal website](adrianlamlh.github.io) for more details if you're interested in what I've done.
 <!--
 **AdrianLamLH/AdrianLamLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
