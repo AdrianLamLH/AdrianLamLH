@@ -1,4 +1,4 @@
-### Hi and Welcome!
+### Hi and welcome!
 
 My name is Adrian, I'm a Mathematics of Computation Student at UCLA. Here are some interesting projects I've worked on:
 
