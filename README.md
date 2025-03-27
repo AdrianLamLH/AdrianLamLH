@@ -3,7 +3,7 @@
 My name is Adrian, I'm a Master's of Data Science Student at USF. Here are some interesting projects I've worked on:
 
 - 🗺️ A full-stack [webapp](https://site.hspa.info) as part of the LA Streets project by City of Los Angeles and UCLA
-- 📝 [ShorthandML](https://github.com/AdrianLamLH/ShorthandTF) - A CNN-LSTM-Transformer hybrid model for optical recognition of shorthand writing with multi-head attention and custom CTC decoding, achieving 78% character-level accuracy
+- 📝 [ShorthandTF](https://github.com/AdrianLamLH/ShorthandTF) - A CNN-LSTM-Transformer hybrid model for optical recognition of shorthand writing with multi-head attention and custom CTC decoding, achieving 78% character-level accuracy
 - 🔒 A novel biometric authentication system [WeGotcha](https://github.com/AdrianLamLH/WeGotcha) leveraging proprietary computer vision algorithms to detect motion blur artifacts in user behavior patterns, built with FastAPI/Uvicorn backend and achieving 70% reduced false-negative rates over traditional CAPTCHAs while maintaining 100% immunity across 1000+ simulated attacks in Anthropic's security testing environment
 - 🦆 An AI-based recursive project management [platform](https://rub-a-duck.vercel.app/) using LLM-powered knowledge graphs to automatically decompose complex projects into actionable subtasks, built with React and Tailwind CSS
 
